@@ -1,16 +1,3 @@
-# Trabalho 2 - Sistemas Operacionais 2018/1
-Prof. Maurício Lima Pilla - http://lups.inf.ufpel.edu.br/~pilla
-
-## Dados do aluno
-
-Declaro que o presente trabalho contém código desenvolvido exclusivamente por mim e que não foi compartilhado de nenhuma forma com terceiros a não ser o professor da disciplina. Compreendo que qualquer violação destes princípios será punida rigorosamente de acordo com o Regimento da UFPEL.
-
-(Preencha com seus dados)
-
-- Nome completo: Rafael de Sousa Nascimento
-- Username do Github: rdsnascimento
-- Email @inf: rdsnascimento@inf.ufpel.edu.br
-
 ## Descrição
 
 Neste trabalho, os alunos irão desenvolver um programa em C ou C++ para simular o funcionamento do gerenciamento de memória virtual em um sistema operacional.
