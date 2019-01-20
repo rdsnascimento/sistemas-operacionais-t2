@@ -56,7 +56,3 @@ Cada trabalho deverá fornecer exemplos de testes no arquivo *teste.c* usando a 
 * Implementação (*memvirt.c*) **8 pontos**
 * Casos de teste documentados (*aluno.c*) **até 2 pontos** (proporcional à nota da implementação). Casos de teste devem estar prontos **antes** de eu entregar o gabarito para correção, senão serão desconsiderados.
 
-## Cronograma
-
-* Envio da versão final: _04/06/2018_ 
-
