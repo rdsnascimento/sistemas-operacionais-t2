@@ -6,7 +6,9 @@ Cada processo começa com o mesmo número de quadros (total de quadros dividido 
 
 O algoritmo para escolha de página vítima é o algoritmo de segunda chance (ou do relógio). Para cada processo, o algoritmo começa sempre pela primeira página acessada pelo processo. Novas páginas que não estavam em memória são incluídas na lista de páginas sempre antes da próxima página a ser avaliada. **Não esqueçam de manter um bit de referência para cada página**. 
 
-Os arquivos _.c_ e _.h_ fornecidos pelo professor **não devem ser modificados**, no máximo renomeados para _.cpp_. Os traços dos alunos deverão ser armazenados no diretório _alunos_. Nenhum diretório deverá ser criado no repositório. A convenção de nomes de arquivos de traços dos alunos será _t01.txt_, _t02.txt_, ... Não adicionem traços muito grandes ao repositório (i.e. cuidem para não ultrapassar o total de 5 MiB para todos os traços).
+Os arquivos _.c_ e _.h_ fornecidos pelo professor **não devem ser modificados**, no máximo renomeados para _.cpp_. Os traços dos alunos deverão ser armazenados no diretório _alunos_. 
+
+Nenhum diretório deverá ser criado no repositório. A convenção de nomes de arquivos de traços dos alunos será _t01.txt_, _t02.txt_, ... Não adicionem traços muito grandes ao repositório (i.e. cuidem para não ultrapassar o total de 5 MiB para todos os traços).
 
 **IMPORTANTE**: 
 
