@@ -13,7 +13,6 @@ Os arquivos _.c_ e _.h_ fornecidos pelo professor **não devem ser modificados**
 - Quando o trabalho estiver pronto e executando os testes do professor no Bitbucket, criem uma _issue_ com o título "[T2 SO] Correção". Nomes diferentes ou _pipeline_ do Bitbucket que não está executando irão gerar descontos na nota (0,5 ponto por ocorrência); 
 - Usem o Bitbucket para manter as versões intermediárias do trabalho (ou seja, não façam apenas _upload_ da versão final). Desconto de 1 ponto. 
 
-
 ### Entradas
 
 A entrada do simulador consistirá de:
